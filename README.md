@@ -1,6 +1,6 @@
-UTS
+#UTS
 
-Soal 1
+##Soal 1
 	mendeklarasikan masalah bialangan int X,Y,A,B
 
 alur alogaritma
@@ -43,6 +43,8 @@ int main()
 
     }
 }
+**Screenshoot**
+![screenshoot](https://raw.githubusercontent.com/cakraandika/UTS_Algoritma/master/Soal1.png)
 
 Soal 2
 	mencari nilai syntak jika N di isi dengan NIM mahasiswa
@@ -75,3 +77,6 @@ while( T <= Batas)
     }
     cout << T;
 }
+
+**Screenshoot**
+![screenshoot](https://raw.githubusercontent.com/cakraandika/UTS_Algoritma/master/Soal2.png)
